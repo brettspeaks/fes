@@ -1,2 +1,2 @@
 # fes
-Frontend Simplified
+Frontend Simplified Bootcamp Notes etc.
