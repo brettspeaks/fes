@@ -1,0 +1,88 @@
+/* Banner Layout */
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    background: linear-gradient(135deg, #3b31ff, #8ec5fc);
+    animation: fadeUp 1s ease-out;
+}
+
+.banner__content {
+    max-width: 600px;
+    padding: 0 5vw;
+}
+
+.banner h1 {
+    font-size: 6vw;
+    margin-bottom: 20px
+}
+
+.banner p {
+    font-size: 2vw;
+    margin-bottom: 30px;
+}
+
+.banner button {
+    padding: 15px 30px;
+    font-size: 1.5vw;
+    color: black;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: transform 0.3s ease, 
+                background-color 0.3s ease;
+}
+.banner button:hover {
+    transform: scale(1.1);
+    background-color: rgb(35, 189, 40);
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .banner h1 {
+        font-size: 8vw;
+    }
+    .banner p {
+        font-size: 4vw;
+    }
+    .banner button {
+        font-size: 1rem;
+        padding: 12px 24px;
+    }
+}   
+
+@media (max-width: 480px) {
+  .banner {
+    flex-direction: column;
+    padding: 10vh 5vw;
+  }
+
+  .banner h1 {
+    font-size: 10vw;
+  }
+
+  .banner p {
+    font-size: 5vw;
+  }
+}  
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
