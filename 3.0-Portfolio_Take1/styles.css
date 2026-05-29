@@ -45,9 +45,17 @@ header{
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-.exploreBtn {
-    margin-top: 48px;
-    font-size: 24px 'Roboto', sans-serif;
+button.exploreButton{   
+   margin-top: 24px;
+   font-size: 24px 'Roboto', sans-serif; 
+   padding: 12px 24px;
+   background-color: #333;
+   color: white;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 h1 {
@@ -62,4 +70,16 @@ h1 {
 li {
     list-style-type: none;
     padding-left: 16px;
+}
+
+#about {
+    padding: 48px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+h2 {
+    font-size: 60px;
+    text-align: center; 
+    margin-bottom: 24px;
 }
