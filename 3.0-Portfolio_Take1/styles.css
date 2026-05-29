@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&display=swap');
 
  * {    
@@ -45,19 +46,6 @@ header{
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-button.exploreButton{   
-   margin-top: 24px;
-   font-size: 24px 'Roboto', sans-serif; 
-   padding: 12px 24px;
-   background-color: #333;
-   color: white;
-   border: none;
-   border-radius: 4px;
-   cursor: pointer;
-   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-   transition: background-color 0.3s ease, box-shadow 0.3s ease;
-}
-
 h1 {
     font-size: 72px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -72,14 +60,113 @@ li {
     padding-left: 16px;
 }
 
-#about {
-    padding: 48px 0;
-    background-color: #f9f9f9;
-    text-align: center;
-}
-
 h2 {
     font-size: 60px;
     text-align: center; 
     margin-bottom: 24px;
+}
+
+#discord,
+#contact,
+#about {
+    padding: 48px 0;
+    text-align: center;
+}
+
+#about {
+    background-color: #909d5a;
+}
+
+img {
+    width: 100%;
+}
+
+.about__img--wrapper {
+    width: 40%;
+}
+
+.section__description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section__description--wrapper {
+    width: 60%;
+    text-align: left;
+}
+
+.about__img--wrapper,
+.section__description--wrapper {
+    padding: 0 24px;
+}
+
+.section__description--para {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+/* Discord */
+
+#discord {
+    background-color: #f0ddca;
+}
+
+/* Contact */
+
+#contact {
+    background-color: #a3bfcd;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 24px;
+    justify-content:left;
+}
+
+input, textarea {
+    margin-bottom: 24px;
+    font-size: 20px;
+    gap: 8px;
+}
+
+label{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+button{   
+   margin-top: 24px;
+   font-size: 24px 'Roboto', sans-serif; 
+   padding: 12px 24px;
+   background-color: #333;
+   color: white;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+   transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Footer */
+
+footer {
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__logo {
+    max-width: 300px;
+    height: auto;
+}
+.footer__links {
+    margin: 16px 0;
 }
