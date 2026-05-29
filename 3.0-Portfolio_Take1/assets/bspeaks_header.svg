@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="114.88499"
+   width="576.61438"
+   sodipodi:docname="bspeaks_header.svg"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.3"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2816191"
+     inkscape:cx="252.02496"
+     inkscape:cy="257.87693"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1664"
+     inkscape:window-height="1042"
+     inkscape:window-x="178"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       id="guide_baseline"
+       inkscape:label="baseline"
+       position="277.77363,100.0877"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_ascender"
+       inkscape:label="ascender"
+       position="0,311.93762"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_caps"
+       inkscape:label="caps"
+       position="0,262.93762"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_xheight"
+       inkscape:label="xheight"
+       position="266.06968,183.57582"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_descender"
+       inkscape:label="descender"
+       position="0,-605.06236"
+       orientation="0,1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(0,-253.39916)">
+    <g
+       id="g57">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3975px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';writing-mode:lr-tb;direction:ltr;fill:#333333;fill-opacity:1;stroke-width:1.10618"
+         x="9.4941654"
+         y="294.29449"
+         id="text1"
+         transform="scale(0.90401774,1.106173)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="9.4941654"
+           y="294.29449"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;fill-opacity:1;stroke-width:1.10618">&gt;&gt;&gt; <tspan
+   style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Thin';fill:#333333;fill-opacity:1;stroke-width:1.10618"
+   id="tspan13">import</tspan>        <tspan
+   id="tspan10"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.3975px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#333333;fill-opacity:1;stroke-width:1.10618"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#333333;fill-opacity:1"
+   id="tspan63">RETT</tspan>     <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#333333;fill-opacity:1"
+   id="tspan62">PEAKS</tspan></tspan>  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Thin';fill:#333333;fill-opacity:1;stroke-width:1.10618"
+   id="tspan12">as </tspan>bs| </tspan><tspan
+           sodipodi:role="line"
+           x="9.4941654"
+           y="340.25174"
+           id="tspan2"
+           style="fill:#333333;fill-opacity:1;stroke-width:1.10618" /></text>
+    </g>
+    <rect
+       style="fill:none"
+       id="rect1"
+       width="576.61438"
+       height="100.65393"
+       x="0"
+       y="267.63022" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:126.667px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.98175"
+       x="214.02682"
+       y="291.57227"
+       id="text56"
+       transform="scale(0.79526778,1.2574381)"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         x="214.02682"
+         y="291.57227"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:126.667px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy Italic Condensed';stroke-width:1.98175">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:condensed;font-size:115.849px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy Italic Condensed';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:62.5254;display:inline;fill:#000000;stroke-width:1.81014"
+       x="379.41553"
+       y="283.77252"
+       id="text57"
+       transform="matrix(0.7807332,0,0,1.3360218,0,-12.604628)"><tspan
+         x="379.41553"
+         y="283.77252"
+         id="tspan3">S</tspan></text>
+  </g>
+</svg>
