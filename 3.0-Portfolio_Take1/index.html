@@ -32,20 +32,23 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <div class="section__description">
-                <div class="section__description--wrapper">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat, cupiditate ab et quo itaque quidem porro sequi,
-                        in natus minus illo unde voluptatum temporibus incidunt adipisci soluta accusantium omnis excepturi.
-                    </p>
+            <div class="row">
+                <div class="section__description">
+                    <div class="section__description--wrapper">
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat, cupiditate ab et quo itaque quidem porro sequi,
+                            in natus minus illo unde voluptatum temporibus incidunt adipisci soluta accusantium omnis excepturi.
+                        </p>
+                    </div>
+                    <figure class="about__img--wrapper">
+                        <img src="./assets/about.jpg" alt="About Me Image">
+                    </figure>
                 </div>
-                <figure class="about__img--wrapper">
-                    <img src="./assets/about.jpg" alt="About Me Image">
-                </figure>
             </div>
         </section>
     
         <section id="discord">
-            <h2>Join My Discord</h2>       
+            <h2>Join My Discord</h2>  
+            <div class="row">
             <div class="section__description">
                 <figure class="about__img--wrapper">
                     <img src="./assets/discord.png" alt="Discord Image">
@@ -58,24 +61,23 @@
                 <button>Join Now</button>
             </div>
         </section>
-    
+        
         <section id="contact">
             <h2>Contact Me</h2>
-            <div class="section__description--para">
-                <p>If you have any questions or want to collaborate, feel free to reach out!</p>
+            <div class="row">
+                <div class="section__description--para">
+                    <p>If you have any questions or want to collaborate, feel free to reach out!</p>
+                </div>
+                <form action="https://example.com/submit-form" method="POST">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" required></textarea>
+                    <button type="submit" class="submitButton">Send</button>
+                </form>
             </div>
-            <form action="https://example.com/submit-form" method="POST">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
-
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" required></textarea>
-
-                <button type="submit" class="submitButton">Send</button>
-            </form>
         </section>  
     </main>
     <footer>
