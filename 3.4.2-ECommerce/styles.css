@@ -123,3 +123,7 @@ button:active{
     border-radius: 8px;
     border: none;
 }
+
+.header__img--wrapper{
+    padding: 20px;
+}
