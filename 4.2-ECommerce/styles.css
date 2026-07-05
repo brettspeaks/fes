@@ -61,3 +61,11 @@ li {
     text-decoration: none;
 }
 
+#landing {
+    background-color:  #EDE9FF
+}
+
+header {
+    height: calc(100vh - 80px);
+}
+
